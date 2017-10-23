@@ -117,8 +117,8 @@ THE SOFTWARE. */
 
     initYTPlayer: function() {
       var playerVars = {
-        controls: 0,
         modestbranding: 1,
+        controls: 0,
         rel: 0,
         showinfo: 0,
         loop: this.options_.loop ? 1 : 0
